@@ -1,0 +1,31 @@
+Employee ID,Name,Email,Department,Manager,Designation,Joining Date,Phone Number,Office Location
+NT1001,Arjun Mehta,arjun.mehta@novatechsolutions.com,Engineering,Priya Sharma,Engineering Manager,2019-03-11,+91-9821004521,Bangalore
+NT1002,Priya Sharma,priya.sharma@novatechsolutions.com,Engineering,Rohit Verma,Director of Engineering,2018-07-02,+91-9821004522,Bangalore
+NT1003,Sanjay Iyer,sanjay.iyer@novatechsolutions.com,Engineering,Arjun Mehta,Senior Software Engineer,2020-01-15,+91-9821004523,Bangalore
+NT1004,Neha Kulkarni,neha.kulkarni@novatechsolutions.com,Engineering,Arjun Mehta,Software Engineer II,2021-06-21,+91-9821004524,Pune
+NT1005,Vikram Desai,vikram.desai@novatechsolutions.com,Engineering,Arjun Mehta,Software Engineer I,2023-08-14,+91-9821004525,Remote
+NT1006,Ananya Rao,ananya.rao@novatechsolutions.com,AI Research,Karthik Nair,AI Research Lead,2019-11-04,+91-9821004526,Bangalore
+NT1007,Karthik Nair,karthik.nair@novatechsolutions.com,AI Research,Rohit Verma,Director of AI Research,2018-09-18,+91-9821004527,Bangalore
+NT1008,Divya Menon,divya.menon@novatechsolutions.com,AI Research,Ananya Rao,ML Research Engineer,2022-02-07,+91-9821004528,Remote
+NT1009,Rohit Verma,rohit.verma@novatechsolutions.com,Engineering,Suresh Pillai,VP of Engineering,2018-04-01,+91-9821004529,Bangalore
+NT1010,Kavya Reddy,kavya.reddy@novatechsolutions.com,Product Management,Meera Iyengar,Product Manager,2020-05-19,+91-9821004530,Bangalore
+NT1011,Meera Iyengar,meera.iyengar@novatechsolutions.com,Product Management,Suresh Pillai,Director of Product,2019-01-22,+91-9821004531,Bangalore
+NT1012,Aditya Kapoor,aditya.kapoor@novatechsolutions.com,Product Management,Kavya Reddy,Associate Product Manager,2023-03-06,+91-9821004532,Pune
+NT1013,Ritu Chawla,ritu.chawla@novatechsolutions.com,Design,Farah Sheikh,Senior Product Designer,2020-10-12,+91-9821004533,Bangalore
+NT1014,Farah Sheikh,farah.sheikh@novatechsolutions.com,Design,Meera Iyengar,Design Lead,2019-06-30,+91-9821004534,Bangalore
+NT1015,Aman Gupta,aman.gupta@novatechsolutions.com,Design,Farah Sheikh,Product Designer,2022-09-09,+91-9821004535,Remote
+NT1016,Suresh Pillai,suresh.pillai@novatechsolutions.com,Executive,Founder/CEO,Chief Technology Officer,2018-01-10,+91-9821004536,Bangalore
+NT1017,Deepika Nambiar,deepika.nambiar@novatechsolutions.com,Sales & GTM,Manoj Bhatt,Account Executive,2021-02-17,+91-9821004537,Bangalore
+NT1018,Manoj Bhatt,manoj.bhatt@novatechsolutions.com,Sales & GTM,Vivek Malhotra,Sales Manager,2019-08-05,+91-9821004538,Bangalore
+NT1019,Vivek Malhotra,vivek.malhotra@novatechsolutions.com,Sales & GTM,Founder/CEO,VP of Sales,2018-11-26,+91-9821004539,Bangalore
+NT1020,Sneha Joshi,sneha.joshi@novatechsolutions.com,Marketing,Rahul Khanna,Marketing Manager,2020-07-13,+91-9821004540,Pune
+NT1021,Rahul Khanna,rahul.khanna@novatechsolutions.com,Marketing,Founder/CEO,Director of Marketing,2019-04-08,+91-9821004541,Bangalore
+NT1022,Pooja Agarwal,pooja.agarwal@novatechsolutions.com,Customer Success,Imran Sheikh,Customer Success Manager,2021-05-24,+91-9821004542,Bangalore
+NT1023,Imran Sheikh,imran.sheikh@novatechsolutions.com,Customer Success,Suresh Pillai,Director of Customer Success,2019-09-15,+91-9821004543,Bangalore
+NT1024,Tanvi Bhattacharya,tanvi.bhattacharya@novatechsolutions.com,Customer Success,Pooja Agarwal,Support Specialist,2023-01-30,+91-9821004544,Remote
+NT1025,Rajesh Kumar,rajesh.kumar@novatechsolutions.com,Finance,Anjali Deshpande,Finance Analyst,2020-03-02,+91-9821004545,Bangalore
+NT1026,Anjali Deshpande,anjali.deshpande@novatechsolutions.com,Finance,Founder/CEO,Director of Finance,2018-12-11,+91-9821004546,Bangalore
+NT1027,Nikhil Saxena,nikhil.saxena@novatechsolutions.com,Human Resources,Shalini Kapoor,HR Business Partner,2020-08-19,+91-9821004547,Bangalore
+NT1028,Shalini Kapoor,shalini.kapoor@novatechsolutions.com,Human Resources,Founder/CEO,Director of HR,2018-06-04,+91-9821004548,Bangalore
+NT1029,Harish Balakrishnan,harish.balakrishnan@novatechsolutions.com,IT Operations,Om Prakash,IT Support Engineer,2021-11-08,+91-9821004549,Bangalore
+NT1030,Om Prakash,om.prakash@novatechsolutions.com,IT Operations,Suresh Pillai,IT Operations Manager,2019-02-25,+91-9821004550,Bangalore
